@@ -1,0 +1,105 @@
+I this lesson, I learned to use
+the diff tool in command line. 
+I also leaned some command line 
+tools -  mkdir and redir. And
+I learned to open up sublime with
+command line - this was by adding
+a path to the .bash_profile file.
+Using diff, i immediately went to
+the new edits that were made - lines
+that were added lines that were
+removed. Thus it was easier to see
+the changes
+
+
+
+How could having easy access to the 
+entire history of a file make you a 
+more efficient programmer in the 
+long term?
+
+It saves time by allowing you 
+to figure out what is working and 
+what needs to be corrected. 
+
+
+
+What do you think are the pros and 
+cons of manually choosing when to 
+create a commit, like you do in Git,
+ vs having versions automatically 
+ saved, like Google Docs does?
+
+ Con is that you have to be alert and 
+ realize whena  commit is needed. 
+ Pro -  you rest at a point that makes 
+ sense.
+
+
+
+ Why do you think some version control
+ systems, like Git, allow saving multiple
+ files in one commit, while others,
+ like Google Docs, treat each file separately?
+
+ The project is dependant of all files
+ working together. There may be several 
+ dependancies between the file, so it's 
+ a good option to be able to access an entire 
+ updated bunch as opposed to individual files
+
+
+
+
+ How can you use the commands git log 
+ and git diff to view the history of files?
+
+ git log to see all the commits. note that 
+ "q" can be used to get out of git log. 
+ git diff with the ids tells us which lines
+ were added and which lines were deleted.
+ Note- since the last lesson, we also
+ learned about git clone, which is followed
+ by the desired URL
+
+
+
+
+How might using version control make 
+you more confident to make changes that
+ could break something?
+
+Its easier now snce you can easily 
+revert back to the latest version that 
+does not have the bug. Note- we use cd ~ to get
+to the home diretory 
+
+
+
+Now that you have your workspace set up, what
+do you want to try using Git for?
+I'd like to try using git for saving different 
+versions of my code. I'd also like to use it
+in my project 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

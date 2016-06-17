@@ -1,0 +1,6 @@
+What happens when you initialize a
+repository? Why do you need to do it?
+
+you initialize a repo when you want to
+create a new git repo. It adds a .git 
+file to the repo.

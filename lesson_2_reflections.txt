@@ -19,3 +19,15 @@ area is a place where you can move files,
 before finally commiting them all at once. 
 
 
+
+
+
+How can you use the staging area to make
+sure you have one commit per logical change?
+
+I'm not sure on this. After each change, I can 
+add the file to the staging area. So I suppose I
+have multiple changes on the staging area. Then, 
+When I commit, all of these will be transferred \
+in one commit right? I think so. So what is the 
+point? I'm a bit fuzzy on this. 

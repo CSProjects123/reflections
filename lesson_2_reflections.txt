@@ -3,7 +3,7 @@ repository? Why do you need to do it?
 
 you initialize a repo when you want to
 create a new git repo. It adds a .git 
-file to the repo.
+file to ` repo.
 
 
 
@@ -31,3 +31,19 @@ have multiple changes on the staging area. Then,
 When I commit, all of these will be transferred \
 in one commit right? I think so. So what is the 
 point? I'm a bit fuzzy on this. 
+
+
+
+
+
+
+What are some situations when branches
+would be helpful in keeping your history 
+organized? How would branches help?
+
+When you want to introduce an experimental
+feature, you can use a branch to do this. 
+Or if you want to target content, then braching 
+could be very helpful. 
+
+

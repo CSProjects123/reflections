@@ -47,3 +47,26 @@ Or if you want to target content, then braching
 could be very helpful. 
 
 
+
+
+
+How do the diagrams help you visualize
+the branch structure?
+
+Diagrams help in visualizing the brach
+structure by providing a pictoral tree-
+like structure where you can clearly see 
+the parent of each commit. You can also
+see all of the branches that exist and 
+thus you get a better understanding of
+the different directions in which the 
+project is developing. Note: you can use 
+the shortcut git -b new_branch_name which
+is equivalent to running "git branch 
+new_bracnh_name" and then running git 
+checkout on the new bracnh 
+
+
+
+
+

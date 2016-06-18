@@ -92,6 +92,19 @@ Something else
 
 
 
+What are the pros and cons of Git’s automatic merging
+vs. always doing merges manually?
+
+we do the merge manually when the automatic merging
+cannot take effect becuse of ambiguity.
+
+
+
+
+
+
+
+
 
 
 

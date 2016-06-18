@@ -1,1 +1,23 @@
-When would you want to add a remote repository rather than keeping all of your work local?
+When would you want to add a remote repository 
+rather than keeping all of your work local?
+
+I would always want to do this since it gives
+security to work. Additonally, it would allow 
+me to share my work with other people.
+
+
+
+Why might you want to always pull changes 
+manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+You computer is not always on ! Therefore, this 
+might pose a reliability threat. Another reason 
+could be beacuse the changes you made on Github 
+are not needed on your local machine. So there is
+no need to pull those changes. 
+
+
+
+
+

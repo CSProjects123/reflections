@@ -70,3 +70,31 @@ checkout on the new bracnh
 
 
 
+
+What is the result of merging two branches 
+together? Why do we represent it in the 
+diagram the way we do?
+
+Notes++ : git merge master coin 
+there is a default commit message 
+" merge branch "coins" " "
+how do you know the parent of a commmit?
+--> git show git_id --> this will effectively
+show do a diff on the commit and its parent. 
+you can delete a branch with the command :
+git bracnch -d coins
+ANSWER - result is that ew get all the changes 
+and the commit histories. One brach has to lead, 
+what other way is there to represent these changes?
+Something else
+
+
+
+
+
+
+
+
+
+
+
